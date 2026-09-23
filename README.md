@@ -6,7 +6,7 @@ Provisionamento de uma infraestrutura web de alta disponibilidade e tolerante a 
 
 Provas de execução e conclusão do laboratório do **AWS Skill Builder**:
 
-![Certificado de Conclusão AWS](951a3598-b73c-406a-9515-771bf5123304.pdf)
+![Certificado de Conclusão AWS](certificado.png)
 
 ---
 
